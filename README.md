@@ -20,5 +20,4 @@ Reference the CodeBook file for details on the data set elements.
 
 	1.	Download and unzip the data
 	2.	Set your R working directory to the directory of your unzipped data files
-
-Run_analysis.R outputs a file “tidy.csv” to your working directory that contains the average of each variable (from Step 4) for each activity and each subject.
+	3.	Run run_analysis.R, which outputs a file "tidy.csv" to your working directory
